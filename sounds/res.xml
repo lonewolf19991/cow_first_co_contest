@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<sounds>
+    <sound file="cadenza1.wav"           cachesize = "5"/>
+    <sound file="cadenza2.wav"           cachesize = "5"/>
+    <sound file="cadenza3.wav"           cachesize = "5"/>
+    <sound file="cadenza4.wav"           cachesize = "5"/>
+</sounds>
+

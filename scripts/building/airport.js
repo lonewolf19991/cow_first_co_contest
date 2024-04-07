@@ -1,0 +1,1 @@
+AIRPORT.constructionList = ["T_HELI", "K_HELI", "BOMBER", "FIGHTER", "STEALTHBOMBER"];

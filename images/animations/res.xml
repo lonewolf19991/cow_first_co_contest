@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<resources>
+	<set path = "mods/cow_first_co_contest/images/animations/" />
+	<atlas>
+		<image file="aoi_wind+n.png" cols= "7"/>
+		<image file="aoi_wind+e.png" cols= "7"/>
+		<image file="aoi_wind+s.png" cols= "7"/>
+		<image file="aoi_wind+w.png" cols= "7"/>
+	</atlas>
+</resources>

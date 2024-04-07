@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<resources>
+    <set path = "mods/cow_first_co_contest/images/game/" />
+    <atlas>
+        <image file="arrow+unit.png" cols = "10" />
+    </atlas>
+</resources>
+

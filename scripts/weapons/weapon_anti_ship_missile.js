@@ -1,0 +1,17 @@
+var idx = 0;
+idx = getIndexOf1(WEAPON_ANTI_SHIP_MISSILE.damageTable, "BATTLESHIP");
+WEAPON_ANTI_SHIP_MISSILE.damageTable[idx][1] = 40;
+idx = getIndexOf1(WEAPON_ANTI_SHIP_MISSILE.damageTable, "CANNONBOAT");
+WEAPON_ANTI_SHIP_MISSILE.damageTable[idx][1] = 75;
+idx = getIndexOf1(WEAPON_ANTI_SHIP_MISSILE.damageTable, "CRUISER");
+WEAPON_ANTI_SHIP_MISSILE.damageTable[idx][1] = 40;
+idx = getIndexOf1(WEAPON_ANTI_SHIP_MISSILE.damageTable, "DESTROYER");
+WEAPON_ANTI_SHIP_MISSILE.damageTable[idx][1] = 40;
+idx = getIndexOf1(WEAPON_ANTI_SHIP_MISSILE.damageTable, "SUBMARINE");
+WEAPON_ANTI_SHIP_MISSILE.damageTable[idx][1] = 40;
+idx = getIndexOf1(WEAPON_ANTI_SHIP_MISSILE.damageTable, "LANDER");
+WEAPON_ANTI_SHIP_MISSILE.damageTable[idx][1] = 55;
+idx = getIndexOf1(WEAPON_ANTI_SHIP_MISSILE.damageTable, "BLACK_BOAT");
+WEAPON_ANTI_SHIP_MISSILE.damageTable[idx][1] = 75;
+idx = getIndexOf1(WEAPON_ANTI_SHIP_MISSILE.damageTable, "AIRCRAFTCARRIER");
+WEAPON_ANTI_SHIP_MISSILE.damageTable[idx][1] = 40;

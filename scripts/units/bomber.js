@@ -1,0 +1,22 @@
+BOMBER.init = function(unit)
+{
+    unit.setAmmo1(9);
+    unit.setMaxAmmo1(9);
+    unit.setWeapon1ID("WEAPON_BOMB");
+
+    unit.setAmmo2(0);
+    unit.setMaxAmmo2(0);
+    unit.setWeapon2ID("");
+
+    unit.setVisionHigh(999);
+    unit.setFuel(100);
+    unit.setMaxFuel(100);
+    unit.setBaseMovementPoints(7);
+    unit.setMinRange(1);
+    unit.setMaxRange(1);
+    unit.setVision(2);
+};
+BOMBER.getBaseCost = function()
+{
+    return 22000;
+};

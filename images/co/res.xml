@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<resources>
+	<set path = "mods/cow_first_co_contest/images/co/" />
+	<atlas>
+		<image file="co_amy_contest+nrm.png" />
+		<image file="co_amy_contest+info.png" />
+		<image file="co_amy_contest+face.png" cols = "3" />
+		<image file="co_amy_contest+mini.png" />
+		<image file="co_aoi_kaze_contest+nrm.png" />
+		<image file="co_aoi_kaze_contest+info.png" />
+		<image file="co_aoi_kaze_contest+face.png" cols = "3" />
+		<image file="co_aoi_kaze_contest+mini.png" />
+		<image file="co_bill_contest+nrm.png" />
+		<image file="co_bill_contest+info.png" />
+		<image file="co_bill_contest+face.png" cols = "3" />
+		<image file="co_cadenza_contest+nrm.png" />
+		<image file="co_cadenza_contest+info.png" />
+		<image file="co_cadenza_contest+face.png" cols = "3" />
+        <image file="co_cadenza_contest+mini.png" />
+		<image file="co_gina_contest+nrm.png" />
+		<image file="co_gina_contest+info.png" />
+		<image file="co_gina_contest+face.png" cols = "3" />
+		<image file="co_gina_contest+mini.png" />
+		<image file="co_marysa_contest+nrm.png" scale_factor = "0.5" />
+		<image file="co_marysa_contest+info.png" />
+		<image file="co_marysa_contest+face.png" cols = "3"/>
+		<image file="co_mina_contest+nrm.png" />
+		<image file="co_mina_contest+info.png" />
+		<image file="co_mina_contest+face.png" cols = "3" />
+		<image file="co_nadiyah_contest+nrm.png" />
+		<image file="co_nadiyah_contest+info.png" />
+		<image file="co_nadiyah_contest+face.png" cols = "3"/>
+		<image file="co_nadiyah_contest+mini.png" />
+		<image file="co_ralph_contest+nrm.png" />
+		<image file="co_ralph_contest+info.png" />
+		<image file="co_ralph_contest+face.png" cols = "3" />
+		<image file="co_ralph_contest+mini.png" />
+		<image file="co_rooke_contest+nrm.png" />
+		<image file="co_rooke_contest+info.png" />
+		<image file="co_rooke_contest+face.png" cols = "3" />
+		<image file="co_rooke_contest+mini.png" />
+        <image file="co_fioretto_contest+nrm.png" />
+		<image file="co_fioretto_contest+info.png" />
+		<image file="co_fioretto_contest+face.png" cols = "3" />
+		<image file="co_penpen_contest+nrm.png" />
+		<image file="co_penpen_contest+info.png" />
+		<image file="co_penpen_contest+face.png" cols = "3" />
+		<image file="co_harbinger_contest+nrm.png" scale_factor = "0.8" />
+		<image file="co_harbinger_contest+info.png" />
+		<image file="co_harbinger_contest+face.png" cols = "3" />
+		<set scale_factor = "0.5" />  
+		<image file="co_brashim_contest+nrm.png" />
+		<set scale_factor = "0.2" />  
+		<image file="co_brashim_contest+info.png"/>
+		 <set scale_factor = "0.3" />
+		<image file="co_brashim_contest+face.png" cols="3"/>
+	</atlas>
+</resources>
