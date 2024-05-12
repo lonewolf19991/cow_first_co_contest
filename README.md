@@ -19,7 +19,7 @@
 - Trundle(Darthnoob)
 
 ## Coders
-- Lone Wolf (Mina, Amy, Bill, Nadiyah, Marysa, Fioretto, Trundle, Brashim, Trundle)
+- Lone Wolf (Mina, Amy, Bill, Nadiyah, Marysa, Fioretto, Trundle, Brashim)
 - Nanoka (Gina)
 - XnKradst (Cadenza, Rooke, Ralph, Aoi Kaze)
 (Some COs were worked on by multiple coders)
