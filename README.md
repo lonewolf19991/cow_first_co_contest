@@ -1,4 +1,4 @@
-# Commander Wars 1st CO Contest
+# Commander Wars 1st CO Contest (Project by fans and for fans, not officially endorsed by the Commander Wars development team) 
 
 ## CO Creators
 - Sourdreemurr (Mina)
