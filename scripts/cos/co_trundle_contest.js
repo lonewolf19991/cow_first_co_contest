@@ -204,7 +204,7 @@ var Constructor = function () {
         return 0;
     };
     this.getCOArmy = function () {
-        return "OS";
+        return "GE";
     };
     // CO - Intel
     this.getBio = function (co) {
@@ -220,13 +220,13 @@ var Constructor = function () {
         return qsTr(" Enemies attacked by a unit heal for 1 less on their next turn (not stacking)");
     };
     this.getPowerDescription = function (co) {
-        return qsTr("Erect an immobile but destructible and rather tanky pillar on an empty location, adjacent enemies gain -10 def, adjacent allies gain +10 attack");
+        return qsTr("Erect an immobile but destructible and rather tanky pillar on an empty location, adjacent enemies gain -10 def, adjacent allies gain +10 attack (Click on an owned city or HQ to activate)");
     };
     this.getPowerName = function (co) {
         return qsTr("Pillar of Filth");
     };
     this.getSuperPowerDescription = function (co) {
-        return qsTr("Choose a missile-radius area to infect: enemies in that area gain -10/-10, allies in that area gain +20/+10");
+        return qsTr("Choose a missile-radius area to infect: enemies in that area gain -10/-10, allies in that area gain +20/+10 (Click on an owned city or HQ to activate)");
     };
     this.getSuperPowerName = function (co) {
         return qsTr("Contaminate");
