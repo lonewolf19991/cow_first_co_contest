@@ -54,5 +54,10 @@
 		<image file="co_brashim_contest+info.png"/>
 		 <set scale_factor = "0.3" />
 		<image file="co_brashim_contest+face.png" cols="3"/>
+	
+	    <image file="co_trundle_contest+info.png" />
+		<image file="co_trundle_contest+face.png" cols = "3" />
+		 <set scale_factor = "0.7" />
+		<image file="co_trundle_contest+nrm.png" />
 	</atlas>
 </resources>
